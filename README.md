@@ -1,4 +1,4 @@
-the project gives an intro to opencv-python ( SIMPLE FACE DETECTION WITH OPENCV-PYTHON AND WEBCAM). download any python offline like pycharm, and pip install opencv-python
+the project gives an intro to opencv-python ( SIMPLE FACE DETECTION WITH OPENCV-PYTHON AND WEBCAM). download any python offline IDE like pycharm, and pip install opencv-python
 MAKE SURE ALL FILES ARE IN ONE FOLDER
 
 THE BELOW IMAGES ARE THE RESULTS
